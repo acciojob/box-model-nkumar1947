@@ -1,32 +1,20 @@
 .traffic-light {
-  width: 300px;
-  height: 100px;
+  width: 120px;
+  height: 350px;
   background-color: lightgray;
   border-radius: 25px;
   border: 2px solid black;
   padding: 10px;
-	text-align:center;
-	
-	
+  text-align: center;
 }
 
 .light {
   width: 80px;
   height: 80px;
   border-radius: 50%;
-	text-align:center;
-	
-	
+  margin: 10px auto;
 }
 
-.green {
-  background-color: green;
-}
-
-.yellow {
-  background-color: yellow;
-}
-
-.red {
-  background-color: red;
-}
+.red { background-color: red; }
+.yellow { background-color: yellow; }
+.green { background-color: green; }
